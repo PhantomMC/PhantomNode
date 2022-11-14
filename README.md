@@ -4,7 +4,7 @@
 >                              No stable releases are available at this time.<br>
 > !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!<br>
 ### Back-end software for [PhantomHost](https://phantomhost.cc)
-[![Stargate Banner](https://i.imgur.com/sXXxwez.jpg)](https://phantomhost.cc)
+[![Phantom Banner](https://i.imgur.com/sXXxwez.jpg)](https://phantomhost.cc)
 ### [Support Discord](https://discord.gg/ASgcxVvhU9) | [Documentation](https://github.com/PhantomMC/PhantomCore/wiki)
 
 # Description
